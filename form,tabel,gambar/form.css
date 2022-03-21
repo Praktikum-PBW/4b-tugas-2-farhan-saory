@@ -1,0 +1,53 @@
+body{
+	margin-left: 250px;
+	margin-right: 250px;
+	font-family: Poppins;
+}
+
+.Judul{
+	text-align: center;
+}
+
+.Judul h1{
+	margin-bottom: 2px;
+	padding-bottom: 2px;
+}
+
+.Judul p{
+	color: dimgrey;
+	font-size: 15px;
+}
+
+input[type="text"]{
+	width: 100%;
+    padding: 10px;
+    border: 1px solid gainsboro;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+input[type="radio"]{
+    background-color: green;
+}
+
+select{
+	width: 100%;
+    padding: 10px;
+    border: 1px solid gainsboro;
+    border-radius: 4px;
+    resize: vertical
+}
+
+button{
+	background-color: blue;
+    color: white;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 4px;
+}
+
+label{
+	padding: 10px 10px 10px 0;
+    display: inline-block;
+    width: 300px;
+}
